@@ -1,0 +1,44 @@
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\bin\Debug\meditic.exe.config
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\bin\Debug\meditic.exe
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\bin\Debug\meditic.pdb
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\obj\x86\Debug\meditic.csprojResolveAssemblyReference.cache
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\obj\x86\Debug\meditic.Form1.resources
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\obj\x86\Debug\meditic.Properties.Resources.resources
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\obj\x86\Debug\meditic.csproj.GenerateResource.Cache
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\obj\x86\Debug\meditic.exe
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\obj\x86\Debug\meditic.pdb
+c:\users\djema\documents\visual studio 2012\Projects\meditic\meditic\obj\x86\Debug\meditic.RadForm1.resources
+C:\Users\djema\Desktop\meditic\meditic\bin\Debug\meditic.exe.config
+C:\Users\djema\Desktop\meditic\meditic\obj\x86\Debug\meditic.exe
+C:\Users\djema\Desktop\meditic\meditic\obj\x86\Debug\meditic.pdb
+C:\Users\djema\Desktop\meditic\meditic\bin\Debug\meditic.exe
+C:\Users\djema\Desktop\meditic\meditic\bin\Debug\meditic.pdb
+C:\Users\djema\Desktop\meditic\meditic\obj\x86\Debug\meditic.csprojResolveAssemblyReference.cache
+C:\Users\djema\Desktop\meditic\meditic\obj\x86\Debug\meditic.Form1.resources
+C:\Users\djema\Desktop\meditic\meditic\obj\x86\Debug\meditic.Patient.resources
+C:\Users\djema\Desktop\meditic\meditic\obj\x86\Debug\meditic.Properties.Resources.resources
+C:\Users\djema\Desktop\meditic\meditic\obj\x86\Debug\meditic.RadForm1.resources
+C:\Users\djema\Desktop\meditic\meditic\obj\x86\Debug\meditic.csproj.GenerateResource.Cache
+C:\Users\djema\Desktop\meditic\meditic\obj\x86\Debug\meditic.Medecin.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\bin\Debug\meditic.exe.config
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.exe
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.pdb
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\bin\Debug\meditic.exe
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\bin\Debug\meditic.pdb
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.csprojResolveAssemblyReference.cache
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.Consultation.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.Form1.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.Medecin.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.Patient.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.Personnel.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.Properties.Resources.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.RadForm1.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.RDV.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.RDV_TODAY.resources
+C:\Users\djema\Desktop\MEDITIC IMENE\meditic\meditic\obj\x86\Debug\meditic.csproj.GenerateResource.Cache
+G:\meditic\meditic\bin\Debug\meditic.exe.config
+G:\meditic\meditic\obj\x86\Debug\meditic.exe
+G:\meditic\meditic\obj\x86\Debug\meditic.pdb
+E:\PROJETS\meditic\meditic\bin\Debug\meditic.exe.config
+E:\PROJETS\meditic\meditic\obj\x86\Debug\meditic.exe
+E:\PROJETS\meditic\meditic\obj\x86\Debug\meditic.pdb
